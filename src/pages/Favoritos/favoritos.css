@@ -1,0 +1,39 @@
+.mes-films{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.mes-films h1{
+    margin-bottom: 14px;
+}
+
+.mes-films span{
+    font-size: 18px;
+}
+
+.mes-films ul{
+    width: 720px;
+}
+
+.mes-films ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.mes-films div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mes-films div a{
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 14px;
+}
